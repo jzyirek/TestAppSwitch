@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestAppSwitch</string>
+    <string name="SendButton">Send</string>
+</resources>
